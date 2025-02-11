@@ -81,6 +81,7 @@ if timeleft==0:
 
 
 print("hello")
+print("This is a colorgame")
 
 
 
